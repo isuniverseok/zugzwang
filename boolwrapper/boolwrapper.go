@@ -1,5 +1,5 @@
 package boolwrapper
 
-type boolwrapper struct {
+type BoolWrapper struct {
 	Val bool
 }
